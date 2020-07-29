@@ -1,3 +1,6 @@
+/*
+ * Video driver definitions
+ */
 #define VID_START 0xb8000
 #define VID_LEN   80*25*2
 
